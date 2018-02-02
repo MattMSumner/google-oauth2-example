@@ -4,5 +4,7 @@
 /node_modules
 yarn-error.log
 /public/
+*.local.cr
+*.dwarf
 server
 /tmp
